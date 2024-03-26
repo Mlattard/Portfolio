@@ -22,7 +22,7 @@ function Projet(props){
           {listeDeChemins.map((chemin, index) => (
             <div>
               <img key={index} className="imgProjet" src={chemin} alt={`Image ${index}`} />
-              <p>{props.details.galerie[index].legende}</p>
+              
             </div>
           ))}
         </div>

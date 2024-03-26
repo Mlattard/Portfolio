@@ -2,12 +2,14 @@ import React from "react";
 
 function Header() {
   return (
-    <div className="gridContainer">
+    <div className="gridHeader">
       <header>
-        <p className="smiley">{`:)`}</p>
-        <h1>Hey, je suis</h1>
-        <h1 className='name'>Maxime Lattard</h1>
-        <h2>Développeur Web et Logiciel</h2>
+        <div>
+          <p className="smiley">{`:)`}</p>
+          <h1>Hey, je suis</h1>
+          <h1 className='name'>Maxime Lattard</h1>
+          <h2>Développeur Web et Logiciel</h2>
+        </div>
       </header>
 
       <div className="presentation">
