@@ -540,6 +540,7 @@ a:hover {
   .divProjet {
     padding: 0 5vw;
     height: 100%;
+    max-width: 100vw;
   }
 
   .divProjet div {

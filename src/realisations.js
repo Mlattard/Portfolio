@@ -1,36 +1,36 @@
 const realisations = [
-  {
-    annee: "2024",
-    titre: "www.lattard.fr",
-    resume: "Conception de mon portfolio professionel",
-    detail: `Mon portfolio professionnel a été développé en parallèle avec l'avancement du bootcamp de développement web, 
-            afin d'appliquer de manière concrète les différentes technologies couvertes.`,
-    lien: 'https://github.com/Mlattard/Green_Trade',
-    technos: [
-      "HTML & CSS",
-      "JavaScript",
-      "React"
-    ],
-    imgPrincipale: "greentrade_principale.jpg",
-    galerie : [
-      {
-        lien: "greentrade_nouveau_membre.png",
-        legende: "Formulaire d'enregistrement d'un nouveau membre"
-      },
-      {
-        lien: "greentrade_membre_accueil.png",
-        legende: "Page d'accueil d'un membre"
-      },
-      {
-        lien: "greentrade_membre_historique.png",
-        legende: "Historique d'achat d'un membre"
-      },
-      {
-        lien: "greentrade_admin_controle.png",
-        legende: "Panneau de controle d'un administrateur"
-      }
-    ]
-  },
+  // {
+  //   annee: "2024",
+  //   titre: "www.lattard.fr",
+  //   resume: "Conception de mon portfolio professionel",
+  //   detail: `Mon portfolio professionnel a été développé en parallèle avec l'avancement du bootcamp de développement web, 
+  //           afin d'appliquer de manière concrète les différentes technologies couvertes.`,
+  //   lien: 'https://github.com/Mlattard/Green_Trade',
+  //   technos: [
+  //     "HTML & CSS",
+  //     "JavaScript",
+  //     "React"
+  //   ],
+  //   imgPrincipale: "greentrade_principale.jpg",
+  //   galerie : [
+  //     {
+  //       lien: "greentrade_nouveau_membre.png",
+  //       legende: "Formulaire d'enregistrement d'un nouveau membre"
+  //     },
+  //     {
+  //       lien: "greentrade_membre_accueil.png",
+  //       legende: "Page d'accueil d'un membre"
+  //     },
+  //     {
+  //       lien: "greentrade_membre_historique.png",
+  //       legende: "Historique d'achat d'un membre"
+  //     },
+  //     {
+  //       lien: "greentrade_admin_controle.png",
+  //       legende: "Panneau de controle d'un administrateur"
+  //     }
+  //   ]
+  // },
   {
     annee: "2024",
     titre: "Bootcamp de développement web",
