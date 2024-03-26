@@ -390,7 +390,7 @@ a:hover {
   }
   
   header div {
-    margin-bottom: 10vh;
+    margin-bottom: 20vh;
     text-align: left;
   }
 
@@ -538,7 +538,6 @@ a:hover {
   /* Projet */
 
   .divProjet {
-    border-left: 2px solid var(--couleur-clair);
     padding: 0 5vw;
     height: 100%;
   }
