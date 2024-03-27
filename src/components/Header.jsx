@@ -14,10 +14,9 @@ function Header() {
 
       <div className="presentation">
         <p>
-          Fort d'une <a className="lien" href="#section-experience">expérience</a> enrichissante dans le domaine et d'une 
-          solide <a className="lien" href="#section-formation">formation</a> en programmation, ainsi que d'une volonté 
-          d'apprendre constante et de développer mes <a className="lien" href="#section-competences">compétences</a>, 
-          je suis motivé pour rejoindre une équipe innovante et participer à la création et au développement de projets.
+          Fort d'une expérience enrichissante dans le domaine et d'une solide formation en programmation, ainsi que d'une volonté 
+          d'apprendre constante et de développer mes compétences, je suis motivé pour rejoindre une équipe innovante et participer 
+          à la création et au développement de projets.
         </p>
       </div>
     </div>

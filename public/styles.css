@@ -1,0 +1,25 @@
+:root {
+  --couleur-fond: #002fa7;
+  --couleur-clair: #9CC1DE;
+  --couleur-fonce: #002482;
+  --gris: #f8f8f8;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--couleur-fond);
+  max-height: max-content;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a:hover {
+  cursor: pointer;
+}
