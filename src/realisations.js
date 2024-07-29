@@ -33,6 +33,30 @@ const realisations = [
   // },
   {
     annee: "2024",
+    titre: "colomberaby.com ",
+    resume: "Portfolio professionnel",
+    detail: `Développement du portfolio pour Colombe Raby, conceptrice visuelle dans le milieu du cinéma.`,
+    lien: 'https://www.colomberaby.com',
+    technos: [
+      "HTML & CSS", 
+      "JavaScript", 
+      "Node",
+      "React",   
+    ],
+    imgPrincipale: "ColombeRaby/CR1.jpg",
+    galerie : [
+      {
+        lien: "ColombeRaby/CR1.jpg",
+        legende: "Page d'accueil du site"
+      },
+      {
+        lien: "ColombeRaby/CR2.jpg",
+        legende: "Page présentant l'ensemble des productions"
+      }
+    ]
+  },
+  {
+    annee: "2024",
     titre: "Bootcamp de développement web",
     resume: "Projets de synthèse par sections",
     detail: `Le Bootcamp complet de développement web développé par Angela Yu sur Udemy offre un parcours complet pour 
